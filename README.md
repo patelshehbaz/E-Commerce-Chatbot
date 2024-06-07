@@ -1,5 +1,3 @@
-# E-Commerce-Chatbot
-
 # E-Commerce Chatbot
 
 This repository contains an implementation of an e-commerce chatbot designed to assist users with their shopping needs, answer questions, and provide recommendations. The chatbot uses Retrieval-Augmented Generation (RAG) and web scraping from Flipkart to collect the dataset.
